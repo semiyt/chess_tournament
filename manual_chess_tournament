@@ -1,0 +1,58 @@
+# Manual del Programa de Torneos en Python
+
+Este programa en Python te permite crear y gestionar torneos, organizando a los participantes en fases de grupos y eliminación directa. A continuación, se presenta una guía paso a paso sobre cómo utilizar el programa:
+
+## 1. Iniciar el Programa
+
+Al iniciar el programa, se mostrará un menú con las siguientes opciones:
+
+- **Crear un torneo (Opción 1)**: Permite a los usuarios crear un nuevo torneo.
+- **Ver torneos (Opción 2)**: Muestra información sobre los torneos existentes.
+- **Eliminar un torneo (Opción 3)**: Permite eliminar un torneo existente.
+- **Salir del programa (Opción 4)**: Finaliza el programa.
+
+## 2. Crear un Torneo
+
+Para crear un torneo, sigue estos pasos:
+
+1. Se te pedirá que ingreses el nombre del torneo. Asegúrate de proporcionar un nombre válido.
+2. Luego, se te pedirá que ingreses el número de jugadores que participarán en el torneo. Debe haber al menos 2 jugadores para que el torneo sea válido.
+3. Ingresa los nombres de los jugadores uno por uno.
+4. Después, se te pedirá que ingreses el número de grupos en los que se dividirán los jugadores.
+5. Los jugadores se distribuirán en grupos de manera equitativa.
+6. Luego, se realizarán enfrentamientos en la fase de grupos.
+7. Los resultados de estos enfrentamientos se registrarán.
+
+## 3. Realizar Fase de Grupos
+
+La fase de grupos implica enfrentamientos entre jugadores en cada grupo. Los jugadores ganarán puntos según los resultados de los enfrentamientos.
+
+## 4. Continuar con la Fase de Eliminación
+
+Luego de la fase de grupos, los ganadores avanzarán a la fase de eliminación. Los enfrentamientos de eliminación directa determinarán al campeón.
+
+## 5. Ver Torneos
+
+Para ver la información de un torneo existente, sigue estos pasos:
+
+1. Selecciona la opción "Ver torneos" en el menú.
+2. Ingresa el nombre del torneo que deseas ver.
+3. La información, incluyendo los participantes, los resultados de la fase de grupos y el ganador, se mostrará en pantalla.
+
+## 6. Eliminar un Torneo
+
+Si deseas eliminar un torneo existente, sigue estos pasos:
+
+1. Selecciona la opción "Eliminar un torneo" en el menú.
+2. Ingresa el nombre del torneo que deseas eliminar.
+3. El torneo se eliminará de la lista de torneos registrados.
+
+## 7. Salir del Programa
+
+Selecciona la opción "Salir del programa" en el menú para finalizar la ejecución del programa.
+
+¡Disfruta organizando tus torneos con este programa en Python!
+
+## 8. Créditos
+
+Programa creado por Cristian Gonzalez y Jaime Cordero
